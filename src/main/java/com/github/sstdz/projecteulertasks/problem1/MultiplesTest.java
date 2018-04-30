@@ -1,4 +1,4 @@
-package com.github.sstdz.projecteulertasks.task1;
+package com.github.sstdz.projecteulertasks.problem1;
 
 import org.junit.Assert;
 import org.junit.Test;

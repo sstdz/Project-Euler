@@ -1,16 +1,6 @@
-package com.github.sstdz.projecteulertasks.task1;
+package com.github.sstdz.projecteulertasks.problem1;
 
-import jdk.nashorn.internal.runtime.regexp.joni.exception.ValueException;
-import org.junit.Assert;
-import org.junit.Test;
-
-import javax.xml.bind.ValidationException;
-import java.util.Arrays;
-import java.util.List;
-import java.util.OptionalInt;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class Multiples {
     /*
